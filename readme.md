@@ -9,6 +9,7 @@ The book chapters:
 - Creating static pages
 - Creating "Controllers"
 - Creating "Models"
+- Creating Relationships between models
 - Creating "Views"
 - Using a database and ActiveRecord
 - Writing your first tests
@@ -20,3 +21,6 @@ The book chapters:
 - Rails and search
 - Rails and ActiveMigrations
 - Rails into production
+- Installing Gems and Rails
+- Rails console and the command-line
+- Rails seeds and setting up your DB
